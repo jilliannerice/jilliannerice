@@ -1,6 +1,6 @@
-## Hi there 👋 I'm Jillian 
+## Hi, I'm Jillian 
 
-####
+I'm 19 years old and currently studying Information Systems at Carnegie Mellon University. 
 
 <!--
 **jilliannerice/jilliannerice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
